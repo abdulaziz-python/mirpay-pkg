@@ -12,7 +12,7 @@ MirPay to'lov API bilan ishlash uchun professional, samarali va foydalanishga qu
 ## O'rnatish
 
 ### Python Paketi sifatida
-PyPI orqali o'rnatish (agar nashr qilingan bo'lsa):
+PyPI orqali o'rnatish (Xozircha nashr etilmagan):
 ```bash
 pip install mirpay
 ```
